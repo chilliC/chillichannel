@@ -1,7 +1,7 @@
 {
     "Header": {
 
-        "title": "CHILLI CHANNEL",
+        "title": "Dr. Chilli",
         "paragraph": "Here you will find verified information on how to restore your health."
 
     },
@@ -33,7 +33,7 @@
         {
             "icon": "fa fa-cloud-download",
             "name": "Special Order",
-            "text": "Our customer can specify in detail all the nuances"
+            "text": "We take into account all the details"
         }
       
 
@@ -41,38 +41,38 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"Started to follow advises and my life transformed. I really didn't expect it. I had many troubles with my health and i did not have any chances to restoring. Thank you for what you're doing guys! \"",
             "name": "John Doe"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"I love the shampoo. The best choise. Best quality. Especially i'm happy because i no longer need to buy separately the bath products :D it's amazing guys. \"",
             "name": "Johnathan Doe"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"The best cheese. Really tasty without salt. It's the natural taste. Energy rushing! You do it with love that's why it feels so. Great gift if you want to make surprise.                                                                                                      \"",
             "name": "John Doe"
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"I had the allergy with detergents. feewh. i'm happy that i find out the right solution, because some questionable elements that contained inside all the cleaning products poisoned my life. Your soap solved my problems.\"",
             "name": "Johnathan Doe"
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"Chilli channel must start selling their information. Because such information is very usefull for life. I found a lot of usefull things for myself and from the products i choose powder for oral care.\"",
             "name": "John Doe"
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"I didn't know that the life can be so amazing with such simple rules. This is real awakening. The switch to the natural is a way out of trap and the beginning of real life.\"",
+            "name": "Mary"
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
+            "img": "img/team/01.jpg",   
+            "name": "Sophia Lel",
             "job": "Director"
         },
         {
@@ -91,32 +91,31 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "instagram": "fb.com",
-        "twitter": "twitter.com",
+        "address": "Chiang Rai, Thailand",
+        "phone": "+666",
+        "email": "admin@doctorchilli.com",
+        "instagram": "doctor_chilli",
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-krw",
+            "title": "Genuine organic",
+            "text": "We are absolutely alternative direction in the understanding 'ORGANIC'"
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Scientific approach",
+            "text": "We provide solid facts that you can find on the information sectoin"
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Personal orders",
+            "text": "We offer the possibility of precise detailing of your desired product"
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Literacy class",
+            "text": "Providing a clear understanding of what our philosophy is based on"
         }
     ]
 }

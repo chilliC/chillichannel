@@ -7,10 +7,9 @@ export class Gallery extends Component {
         <div className="container">
           <div className="section-title">
             <h2>Gallery</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
-            </p>
+            <h3>
+              There's some pictures what we have provide.
+            </h3>
           </div>
           <div className="row">
             <div className="portfolio-items">
@@ -24,7 +23,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Organic soap</h4>
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
@@ -45,7 +44,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Skin oil set</h4>
                       </div>
                       <img
                         src="img/portfolio/02-small.jpg"
@@ -66,7 +65,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Organic shampoo and gel</h4>
                       </div>
                       <img
                         src="img/portfolio/03-small.jpg"
@@ -87,7 +86,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Chilli oil</h4>
                       </div>
                       <img
                         src="img/portfolio/04-small.jpg"
@@ -108,7 +107,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Organic teeth powder</h4>
                       </div>
                       <img
                         src="img/portfolio/05-small.jpg"
@@ -129,7 +128,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Dolor Sit</h4>
+                        <h4>Cloves oil</h4>
                       </div>
                       <img
                         src="img/portfolio/06-small.jpg"
@@ -150,7 +149,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Dolor Sit</h4>
+                        <h4>Raw goat's Cheese</h4>
                       </div>
                       <img
                         src="img/portfolio/07-small.jpg"
@@ -171,7 +170,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Raw goat's Cheese</h4>
                       </div>
                       <img
                         src="img/portfolio/08-small.jpg"
@@ -192,7 +191,7 @@ export class Gallery extends Component {
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>La Petit (goat's Cheese)</h4>
                       </div>
                       <img
                         src="img/portfolio/09-small.jpg"
