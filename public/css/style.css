@@ -76,10 +76,10 @@ hr {
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
 #menu a.navbar-brand {
-	margin-bottom: 1em;
-	Display: block;
+	/* margin-bottom: 1em; */
+	Display: flex;
     Align-Items: center;
-    Justify-Content: center; 
+    /* Justify-Content: center;  */
 
 }
 #menu.navbar-default .navbar-nav > li > a {
@@ -164,7 +164,7 @@ hr {
 	margin: 0;
 	font-size: 15px;
 	font-weight: 500;
-	border-radius: 25px;
+	border-radius: 15px;
 	transition: all 0.5s linear;
 	border: 0;
 }
@@ -187,6 +187,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro {
 	display: table;
 	width: 100%;
+	height: 70%;
 	padding: 0;
 	background: url(../img/intro-bg.jpg) center center no-repeat;
 	background-color: #e5e5e5;
@@ -220,22 +221,22 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 60px;
 }
 header .intro-text {
-	padding-top: 350px;
-	padding-bottom: 200px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 	text-align: center;
 }
 /* Features Section */
 #features {
-	padding: 100px;
 	background: #f0dddd;
+	padding-top: 5em;
 }
 #features i.fa {
 	font-size: 50px;
-	margin-bottom: 30px;
+	/* margin-bottom: 30px; */
 	transition: all 0.5s;
 	width: 100px;
 	height: 100px;
-	padding-bottom: 50px;
+	/* padding-bottom: 50px; */
 	border-radius: 50%;
 	background: linear-gradient(to right, #4d0f86 0%, #f1024a 100%);
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);

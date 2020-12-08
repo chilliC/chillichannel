@@ -7,7 +7,7 @@ export class Navigation extends Component {
         <div className="container">
           <div className="navbar-header">
 
-            <button
+            {/* <button
               type="button"
               className="navbar-toggle collapsed"
               data-toggle="collapse"
@@ -18,7 +18,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
-            </button>
+            </button> */}
             <a className="navbar-brand" href="#page-top">
             <img
             src="/img/logo.svg"
