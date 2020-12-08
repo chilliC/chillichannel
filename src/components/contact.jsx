@@ -98,7 +98,7 @@ export class Contact extends Component {
                   <ul>
                     <li>
                       <a
-                        href="https://facebook.com/"
+                        href="https://www.facebook.com/northernthaiorganicproducts/"
                         className="instagram social"
                       >
                         <FontAwesomeIcon icon={faFacebook} size="2x" />

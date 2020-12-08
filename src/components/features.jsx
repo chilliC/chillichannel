@@ -13,13 +13,19 @@ export class features extends Component {
               ? this.props.data.map((d,i) => (
                   <div  key={`${d.title}-${i}`} className="col-xs-6 col-md-3">
                     {" "}
-                    <img src={d.img} alt="..." className="team-img" />
+                      <img src={d.img} alt="..." className="team-img" />
                     <h3>{d.title}</h3>
-                    <p>{d.text}</p>
+                    <button type="button" class="btn btn-outline-primary" style={{marginBottom:"3em", marginTop: "1em", backgroundColor: "transparent"}}>{d.text}</button>
+                  
+                    
                   </div>
+                  
+                  
                 ))
               : "Loading..."}
           </div>
+
+          
         </div>
       </div>
     );

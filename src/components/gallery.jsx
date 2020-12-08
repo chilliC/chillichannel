@@ -29,7 +29,7 @@ export class Gallery extends Component {
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
-                        className="img-responsive"
+                        className="img-responsive" alt=""
                       />{" "}
                     </a>{" "}
                   </div>
@@ -50,6 +50,7 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/02-small.jpg"
                         className="img-responsive"
+                        alt=""
                       />{" "}
                     </a>{" "}
                   </div>
@@ -69,6 +70,7 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/03-small.jpg"
                         className="img-responsive"
+                        alt=""
                       />{" "}
                     </a>{" "}
                   </div>
@@ -88,6 +90,7 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/04-small.jpg"
                         className="img-responsive"
+                        alt=""
                       />{" "}
                     </a>{" "}
                   </div>
@@ -107,6 +110,7 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/05-small.jpg"
                         className="img-responsive"
+                        alt=""
                       />{" "}
                     </a>{" "}
                   </div>
@@ -119,6 +123,7 @@ export class Gallery extends Component {
                     <a
                       href="img/portfolio/06-large.jpg"
                       data-lightbox-gallery="gallery1"
+                      alt=""
                     >
                       <div className="hover-text">
                         <h4>Cloves oil</h4>
@@ -126,6 +131,7 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/06-small.jpg"
                         className="img-responsive"
+                        alt=""
                       />{" "}
                     </a>{" "}
                   </div>
@@ -138,6 +144,7 @@ export class Gallery extends Component {
                     <a
                       href="img/portfolio/07-large.jpg"
                       data-lightbox-gallery="gallery1"
+                      alt=""
                     >
                       <div className="hover-text">
                         <h4>Raw goat's Cheese</h4>
@@ -145,6 +152,7 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/07-small.jpg"
                         className="img-responsive"
+                        alt=""
                       />{" "}
                     </a>{" "}
                   </div>
@@ -157,6 +165,7 @@ export class Gallery extends Component {
                     <a
                       href="img/portfolio/08-large.jpg"
                       data-lightbox-gallery="gallery1"
+                      alt=""
                     >
                       <div className="hover-text">
                         <h4>Raw goat's Cheese</h4>
@@ -164,6 +173,7 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/08-small.jpg"
                         className="img-responsive"
+                        alt=""
                       />{" "}
                     </a>{" "}
                   </div>
