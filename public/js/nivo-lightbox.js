@@ -133,7 +133,7 @@
 				return true;
 			}
 			// AJAX
-			else if(link.attr('data-lightbox-type') == 'ajax'){
+			else if(link.attr('box-type') == 'ajax'){
 				return true;
 			}
 			// Inline HTML

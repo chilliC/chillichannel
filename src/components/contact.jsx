@@ -1,4 +1,9 @@
 import React, { Component } from "react";
+import {
+  faFacebook,
+  faInstagram,
+} from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export class Contact extends Component {
   render() {
@@ -93,35 +98,24 @@ export class Contact extends Component {
                   <ul>
                     <li>
                       <a
-                        href={this.props.data ? this.props.data.facebook : "/"}
+                        href="https://facebook.com/"
+                        className="instagram social"
                       >
-                        <i className="fa fa-facebook"></i>
+                        <FontAwesomeIcon icon={faFacebook} size="2x" />
                       </a>
                     </li>
                     <li>
-                      <a href={this.props.data ? this.props.data.twitter : "/"}>
-                        <i className="fa fa-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href={this.props.data ? this.props.data.youtube : "/"}>
-                        <i className="fa fa-youtube"></i>
+                      <a
+                        href="https://www.instagram.com/doctor_chilli"
+                        className="instagram social"
+                      >
+                        <FontAwesomeIcon icon={faInstagram} size="2x" />
                       </a>
                     </li>
                   </ul>
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-        <div id="footer">
-          <div className="container text-center">
-            <p>
-              &copy; 2020 Issaaf Kattan React Land Page Template. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                TemplateWire
-              </a>
-            </p>
           </div>
         </div>
       </div>

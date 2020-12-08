@@ -3,9 +3,10 @@ import React, { Component } from "react";
 export class Navigation extends Component {
   render() {
     return (
-      <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+      <nav id="menu" className="navbar navbar-default navbar-center-top">
         <div className="container">
           <div className="navbar-header">
+
             <button
               type="button"
               className="navbar-toggle collapsed"
@@ -18,19 +19,23 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
-            <a className="navbar-brand page-scroll" href="#page-top">
-            Chilli Channel
+            <a className="navbar-brand" href="#page-top">
+            <img
+            src="/img/logo.svg"
+            alt="logo"
+              />
             </a>{" "}
+
           </div>
 
           <div
             className="collapse navbar-collapse"
-            id="bs-example-navbar-collapse-1"
+            id="bs-example-navbar-collapse-2"
           >
             <ul className="nav navbar-nav navbar-right">
               <li>
                 <a href="#features" className="page-scroll">
-                  Features
+                  Bestsellers
                 </a>
               </li>
               <li>
@@ -48,16 +53,16 @@ export class Navigation extends Component {
                   Gallery
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#testimonials" className="page-scroll">
                   Testimonials
                 </a>
-              </li>
-              <li>
+              </li> */}
+              {/* <li>
                 <a href="#team" className="page-scroll">
                   Team
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href="#contact" className="page-scroll">
                   Contact

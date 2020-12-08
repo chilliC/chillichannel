@@ -8,7 +8,7 @@ export class Gallery extends Component {
           <div className="section-title">
             <h2>Gallery</h2>
             <h3>
-              There's some pictures what we have provide.
+              In addition, we offer natural daily-use products
             </h3>
           </div>
           <div className="row">
@@ -17,18 +17,19 @@ export class Gallery extends Component {
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
+                    
                     <a
                       href="img/portfolio/01-large.jpg"
-                      title="Project Title"
                       data-lightbox-gallery="gallery1"
+
                     >
+
                       <div className="hover-text">
                         <h4>Organic soap</h4>
                       </div>
                       <img
                         src="img/portfolio/01-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -40,16 +41,15 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/02-large.jpg"
-                      title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
+                      
                       <div className="hover-text">
                         <h4>Skin oil set</h4>
                       </div>
                       <img
                         src="img/portfolio/02-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -61,7 +61,6 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/03-large.jpg"
-                      title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
@@ -70,7 +69,6 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/03-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -82,7 +80,6 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/04-large.jpg"
-                      title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
@@ -91,7 +88,6 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/04-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -103,7 +99,6 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/05-large.jpg"
-                      title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
@@ -112,7 +107,6 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/05-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -124,7 +118,6 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/06-large.jpg"
-                      title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
@@ -133,7 +126,6 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/06-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -145,7 +137,6 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/07-large.jpg"
-                      title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
@@ -154,7 +145,6 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/07-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -166,7 +156,6 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/08-large.jpg"
-                      title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
@@ -175,7 +164,6 @@ export class Gallery extends Component {
                       <img
                         src="img/portfolio/08-small.jpg"
                         className="img-responsive"
-                        alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
@@ -187,11 +175,10 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/09-large.jpg"
-                      title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>La Petit (goat's Cheese)</h4>
+                        <h4>La Petit (Goat's Cheese)</h4>
                       </div>
                       <img
                         src="img/portfolio/09-small.jpg"

@@ -1,38 +1,38 @@
 {
     "Header": {
 
-        "title": "Dr. Chilli",
-        "paragraph": "Here you will find verified information on how to restore your health."
+        "title": "Thai organic cheese",
+        "paragraph": "Handmade Raw Goat Cheese."
 
     },
     "About": {
-        "paragraph": "We are adequately approaching the issue of organic products. First of all, we test products on ourselves, so we can confidently call ourselves organic. We prepare products for ourselves, so it has an appropriate price list. In fact, organic is something that has not been subjected to any chemical treatment at all.",
+        "paragraph": "Natural Cheesemaking in the North of Thailand. ",
         "Why": [
-            "Pre-order preparation",
+            "100% Handmade Only",
             "Individual preparation",
-            "Product liability ",
-            "Quality priority"
+            "Using natural ingredients"
+           
         ],
         "Why2": [
-            "Available information",
-            "Competent answers",
-            "Production transparency",
-            "New direction"
+            "Plastic-free equipment",
+            "Chemical-free process",
+            "Only raw fresh milk"
+        
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
+            "icon": "fa fa-truck",
             "name": "Delivery in Thailand",
             "text": "We provide a shipment to any place in Thailand."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
+            "icon": "fa fa-slideshare",
             "name": "Referral program",
             "text": "Our customers will have a 5% bonus on the next purchase for the reffered friends"
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Special Order",
+            "icon": "fa fa-coffee",
+            "name": "Special Order", 
             "text": "We take into account all the details"
         }
       
@@ -42,32 +42,32 @@
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
             "text": "\"Started to follow advises and my life transformed. I really didn't expect it. I had many troubles with my health and i did not have any chances to restoring. Thank you for what you're doing guys! \"",
-            "name": "John Doe"
+            "name": "Laura Tomhas"
         },
         {
             "img": "img/testimonials/02.jpg",
             "text": "\"I love the shampoo. The best choise. Best quality. Especially i'm happy because i no longer need to buy separately the bath products :D it's amazing guys. \"",
-            "name": "Johnathan Doe"
+            "name": "Ri Apl"
         },
         {
             "img": "img/testimonials/03.jpg",
             "text": "\"The best cheese. Really tasty without salt. It's the natural taste. Energy rushing! You do it with love that's why it feels so. Great gift if you want to make surprise.                                                                                                      \"",
-            "name": "John Doe"
+            "name": "Guy Turf"
         },
         {
             "img": "img/testimonials/04.jpg",
             "text": "\"I had the allergy with detergents. feewh. i'm happy that i find out the right solution, because some questionable elements that contained inside all the cleaning products poisoned my life. Your soap solved my problems.\"",
-            "name": "Johnathan Doe"
+            "name": "Anna James"
         },
         {
             "img": "img/testimonials/05.jpg",
             "text": "\"Chilli channel must start selling their information. Because such information is very usefull for life. I found a lot of usefull things for myself and from the products i choose powder for oral care.\"",
-            "name": "John Doe"
+            "name": "Jeaneah Paris"
         },
         {
             "img": "img/testimonials/06.jpg",
             "text": "\"I didn't know that the life can be so amazing with such simple rules. This is real awakening. The switch to the natural is a way out of trap and the beginning of real life.\"",
-            "name": "Mary"
+            "name": "Mary Mills"
         }
     ],
     "Team": [{
@@ -77,45 +77,66 @@
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Julia Winddance",
+            "job": "Designer"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "name": "Abhi Antony",
+            "job": "Project Helper"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
+            "name": "William Doc",
             "job": "Project Manager"
         }
     ],
     "Contact": {
         "address": "Chiang Rai, Thailand",
-        "phone": "+666",
+        "phone": "+666-52-278077",
         "email": "admin@doctorchilli.com",
         "instagram": "doctor_chilli",
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-krw",
-            "title": "Genuine organic",
-            "text": "We are absolutely alternative direction in the understanding 'ORGANIC'"
+        "img": "img/cheese/ashes.jpg",
+            "title": "De Chèvre with ashes ",
+            "text": "60 THB"
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Scientific approach",
-            "text": "We provide solid facts that you can find on the information sectoin"
+            "img": "img/cheese/classic.jpg",
+            "title": "Classic de Chèvre",
+            "text": "60 THB"
         },
         {
-            "icon": "fa fa-group",
-            "title": "Personal orders",
-            "text": "We offer the possibility of precise detailing of your desired product"
+            "img": "img/cheese/pepper.jpg",
+            "title": "De Chèvre with red Pepper",
+            "text": "60 THB"
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Literacy class",
-            "text": "Providing a clear understanding of what our philosophy is based on"
-        }
+            "img": "img/cheese/classic.jpg",
+            "title": "De Chèvre with Cinnamon",
+            "text": "60 THB"
+        },
+
+        {
+            "img": "img/cheese/tomme.jpg",
+                "title": "Tomme",
+                "text": "500 THB"
+            },
+            {
+                "img": "img/cheese/camembert.jpg",
+                "title": "Camembert",
+                "text": "500 THB"
+            },
+            {
+                "img": "img/cheese/roquefort.jpg",
+                "title": "Roquefort",
+                "text": "500 THB"
+            },
+            {
+                "img": "img/cheese/crottin.jpg",
+                "title": "Crottin de Chavignol",
+                "text": "60 THB"
+            }
     ]
 }
