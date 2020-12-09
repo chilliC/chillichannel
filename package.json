@@ -1,5 +1,4 @@
 {
-  "name": "Chilli Channel",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
