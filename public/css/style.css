@@ -227,10 +227,9 @@ header .intro-text {
 }
 /* Features Section */
 #features {
-	background: #f0dddd;
-	padding-top: 5em;
+	padding-top: 5em 0;
 }
-#features i.fa {
+#features-item {
 	font-size: 50px;
 	/* margin-bottom: 30px; */
 	transition: all 0.5s;
@@ -243,12 +242,30 @@ header .intro-text {
 }
 
 #features .team-img {
-	width: 240px;
-	border-color: #4d0f86;
+	 width: 24em; 
+	padding: 0;
+	position: relative;
+	margin: 1em;
+
 
 }
 
+/* Portfolio Section */
+#portfolio {
+	padding: 100px 0;
+}
+.portfolio-item {
+	margin: 1px -15px 0 -14px;
+	padding: 0;
+}
+.portfolio-item .hover-bg {
+	/* overflow: hidden; */
+	position: relative;
+	margin: 0;
+}
+
 #features .btn {
+	position: relative;
 border-color: #b240d1;
 border-radius: 0%;
 font-size: 20px;
@@ -348,19 +365,7 @@ font-style: initial;
 #services .service-desc {
 	margin-bottom: 40px;
 }
-/* Portfolio Section */
-#portfolio {
-	padding: 100px 0;
-}
-.portfolio-item {
-	margin: 1px -15px 0 -14px;
-	padding: 0;
-}
-.portfolio-item .hover-bg {
-	/* overflow: hidden; */
-	position: relative;
-	margin: 0;
-}
+
 .hover-bg .hover-text {
 	position: absolute;
 	text-align: center;
