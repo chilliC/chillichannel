@@ -1,3 +1,8 @@
+
+
+
+
+
 body, html {
 	font-family: 'Montserrat', sans-serif;
 	text-rendering: optimizeLegibility !important;
@@ -225,23 +230,40 @@ header .intro-text {
 	padding-bottom: 50px;
 	text-align: center;
 }
-/* Features Section */
-#features {
-	padding-top: 5em 0;
-}
-#features-item {
-	font-size: 50px;
-	/* margin-bottom: 30px; */
-	transition: all 0.5s;
-	width: 100px;
-	height: 100px;
-	/* padding-bottom: 50px; */
-	border-radius: 50%;
-	background: linear-gradient(to right, #4d0f86 0%, #f1024a 100%);
-	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
+
+ #features {
+	padding-top: 10em 0;
+	padding-bottom: 5em 0;
 }
 
-#features .team-img {
+/* Portfolio Section */
+#bestseller {
+	padding: 100px 0;
+}
+.bestseller-item {
+	margin: 1px -15px 0 -14px;
+	padding: 0;
+}
+.bestseller-item .hover-bg {
+	/* overflow: hidden; */
+	position: relative;
+	margin: 0;
+}
+
+
+#features-item {
+	font-size: 50px; 
+	/* margin-bottom: 30px; */
+	/* transition: all 0.5s;
+	width: 100px;
+	height: 100px; */
+	/* padding-bottom: 50px; */
+	/* border-radius: 50%;
+	background: linear-gradient(to right, #4d0f86 0%, #f1024a 100%);
+	box-shadow: 10px 10px 10px rgba(0,0,0,.05); */
+}
+
+/* #features .team-img {
 	 width: 24em; 
 	padding: 0;
 	position: relative;
@@ -250,28 +272,14 @@ header .intro-text {
 
 }
 
-/* Portfolio Section */
-#portfolio {
-	padding: 100px 0;
-}
-.portfolio-item {
-	margin: 1px -15px 0 -14px;
-	padding: 0;
-}
-.portfolio-item .hover-bg {
-	/* overflow: hidden; */
-	position: relative;
-	margin: 0;
-}
-
 #features .btn {
 	position: relative;
 border-color: #b240d1;
 border-radius: 0%;
 font-size: 20px;
-/* font-weight: 300; */
+font-weight: 300;
 font-style: initial;
-}
+} */
 
 
 
